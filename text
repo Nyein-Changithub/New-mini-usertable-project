@@ -1,0 +1,18 @@
+--CRUD
+
+--create
+INSERT INTO roles (name,value) VALUES ('super', 44)
+
+--Read
+SELECT id, name FROM roles ORDER BY name DESC LIMIT 3
+
+--Update
+UPDATE roles SET name='Editor' WHERE id=2
+
+--Delete
+DELETE FROM roles WHERE id=2
+
+###
+SELECT users.id,users.name, users.role_id, roles.name AS role
+FROM users LEFT JOIN roles 
+ON users.role_id = roles.id
