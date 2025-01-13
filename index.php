@@ -13,7 +13,7 @@
 
         <?php if( isset( $_GET['register'] ) ): ?>
             <div class="alert alert-danger">
-                Account suspended
+                Account Success
             </div>
         <?php endif ?>
 
