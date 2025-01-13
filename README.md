@@ -34,7 +34,7 @@ Follow the steps below to set up and run the project on your local machine:
 
 4. **Run the Project**  
    Open your browser and access the project by navigating to:  
-   [http://localhost/project-folder/](http://localhost/project-folder/)
+   [http://http://localhost/project/](http://http://localhost/project/)
 
 5. **Screenshots**  
    Below are some screenshots of the project:  
