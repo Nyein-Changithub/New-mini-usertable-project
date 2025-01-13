@@ -23,7 +23,7 @@ Follow the steps below to set up and run the project on your local machine:
 
 
 2. **Move into the project directory:**
- ```bash
+   ```bash
    cd repository-name
 
 3. **Set Up the Local Server**  
