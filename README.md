@@ -14,7 +14,6 @@ Before you begin, ensure you have met the following requirements:
 - A local server environment such as XAMPP, WAMP, or MAMP
 
 ## Installation
-
 Follow the steps below to set up and run the project on your local machine:
 
 1. **Clone the Repository**  
@@ -22,19 +21,23 @@ Follow the steps below to set up and run the project on your local machine:
    ```bash
    git clone https://github.com/Nyein-Changithub/Usertable-project.git
 
+
 2. **Move into the project directory:**
  ```bash
    cd repository-name
 
-3. **Set up the local sever:**
-   Copy the project folder to your server's root directory.
-   For example:
-   - For XAMPP: Place the folder in C:/xampp/htdocs/
-   - For WAMP: Place the folder in C:/wamp/www/
+3. **Set Up the Local Server**  
+   Copy the project folder to your server's root directory. For example:
+   - For XAMPP: Place the folder in `C:/xampp/htdocs/`
+   - For WAMP: Place the folder in `C:/wamp/www/`
 
-4. **Run the Project**
-   Open your browser and access the project by navigating to:
-   - http://[localhost/project-folder/](http://localhost/project/)
+4. **Run the Project**  
+   Open your browser and access the project by navigating to:  
+   [http://localhost/project-folder/](http://localhost/project-folder/)
 
- ![Image Alt](https://github.com/Nyein-Changithub/Usertable-project/blob/2190e92fede2aedb408e19519ff304d18571c05e/prj-pp.PNG)
- ![Image Alt](https://github.com/Nyein-Changithub/Usertable-project/blob/16b77ee6085d8d1284509a009720d5a3003b6997/Prj-photo.PNG)
+5. **Screenshots**  
+   Below are some screenshots of the project:  
+   ![Project Preview 1](https://github.com/Nyein-Changithub/Usertable-project/blob/2190e92fede2aedb408e19519ff304d18571c05e/prj-pp.PNG)  
+   ![Project Preview 2](https://github.com/Nyein-Changithub/Usertable-project/blob/16b77ee6085d8d1284509a009720d5a3003b6997/Prj-photo.PNG)
+
+
