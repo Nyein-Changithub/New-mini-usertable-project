@@ -33,10 +33,11 @@ Follow the steps below to set up and run the project on your local machine:
    - For WAMP: Place the folder in `C:/wamp/www/`
 
 4. **Run the Project**  
-   Open your browser and access the project by navigating to:  
-   [http://http://localhost/project/](http://http://localhost/project/)
+   Open your browser and access the project by navigating to:
+    
+   [http://localhost/project/](http://http://localhost/project/)
 
-5. **Screenshots**  
+6. **Screenshots**  
    Below are some screenshots of the project:  
    ![Project Preview 1](https://github.com/Nyein-Changithub/Usertable-project/blob/2190e92fede2aedb408e19519ff304d18571c05e/prj-pp.PNG)  
    ![Project Preview 2](https://github.com/Nyein-Changithub/Usertable-project/blob/16b77ee6085d8d1284509a009720d5a3003b6997/Prj-photo.PNG)
