@@ -37,6 +37,10 @@ Follow the steps below to set up and run the project on your local machine:
     
    [http://localhost/project/](http://localhost/project/)
 
+5. **License**
+   - This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
+
+
 6. **Screenshots**  
    Below are some screenshots of the project:  
    ![Project Preview 1](https://github.com/Nyein-Changithub/Usertable-project/blob/2190e92fede2aedb408e19519ff304d18571c05e/prj-pp.PNG)  
